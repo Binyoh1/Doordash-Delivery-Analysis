@@ -3,10 +3,13 @@
 
 
 ## About the Data
-> This dataset contains a subset of deliveries received at DoorDash in 2015 in a subset of the cities. The dataset is available on [Stratascratch](https://platform.stratascratch.com/data-projects/delivery-duration-prediction). Each row in this dataset corresponds to one unique delivery, and each column corresponds to a feature as explained below.
+This dataset contains a subset of deliveries received at DoorDash in 2015 in a subset of the cities. The dataset is available on [Stratascratch](https://platform.stratascratch.com/data-projects/delivery-duration-prediction). Each row in this dataset corresponds to one unique delivery, and each column corresponds to a feature as explained below.
 
 > **Note**: All money (dollar) values given in the data are in `cents` and all time duration values given are in `seconds`.
-> Download and open the **Part_II_slide_deck_template.slides.html** to view the the slide presentation for this project.
+
+Download and open the **Part_II_slide_deck_template.slides.html** to view the the slide presentation for this project.
+You can view the presentation online using this [link](https://scarlet-daniele-8.tiiny.site)
+
 
 
 ## Data Dictionary
