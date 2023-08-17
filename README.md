@@ -8,7 +8,7 @@ This dataset contains a subset of deliveries received at DoorDash in 2015 in a s
 **Note**: All money (dollar) values given in the data are in `cents` and all time duration values given are in `seconds`.
 
 ### Project Presentation
-You can view the presentation online using this [link](https://binyoh1.github.io/Doordash-Delivery-Analysis/#/)
+You can view the presentation of my findings online using this [link](https://binyoh1.github.io/Doordash-Delivery-Analysis/#/)
 
 
 
