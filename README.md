@@ -1,5 +1,4 @@
 # DoorDash Delivery Data Exploration
-## by Binyoh Langhe Theodore
 
 
 ## About the Data
@@ -8,7 +7,7 @@ This dataset contains a subset of deliveries received at DoorDash in 2015 in a s
 **Note**: All money (dollar) values given in the data are in `cents` and all time duration values given are in `seconds`.
 
 ### Project Presentation
-You can view the presentation of my findings online using this [link](https://binyoh1.github.io/Doordash-Delivery-Analysis/#/)
+You can view the presentation of my findings online using this [**link**](https://binyoh1.github.io/Doordash-Delivery-Analysis/#/)
 
 
 
@@ -60,7 +59,7 @@ Given these issues, it'll be worth looking into orders wherein:
 
 ## Project Goal
 The aim of this analytical exploration is to find out what factors affect delivery duration, and hence could be useful in predicting the delivery duration for any order. As such, I intend to answer the following questions:
-- What features or variables affact delivery duration?
+- What features or variables affect delivery duration?
     - How do they relate to delivery duration and each other?
 - Which markets/regions and/or protocols if any have a large proportion of orders with high delivery duration values?
 - What can be done to reduce the frequency of orders with high delivery duration values? 
